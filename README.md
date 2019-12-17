@@ -21,3 +21,6 @@ Mean Squared Error: 20.581578947368424
 5. RANDOM FOREST REGRESSION
 R2 Score:  0.7300062877967161
 Mean Squared Error: 25.67295313664888
+
+
+# easy_install -U pip
